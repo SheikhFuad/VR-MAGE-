@@ -13,7 +13,7 @@ In the Unity Hub, add the folder **VR-Maze** that was just cloned. Then open the
 
 Whenever prompted to enable OculusXR, press `Cancel`.
 
-<span><img src="https://i.ibb.co/nbWrkrY/prompt.png" width="150" height="150" /></span>
+<span><img src="https://user-images.githubusercontent.com/79721701/217009572-00e52cc0-7108-4c3d-8443-a57a3a801e34.png" width="150" height="150" /></span>
 
 ## Run
 
