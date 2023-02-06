@@ -6,7 +6,7 @@ The virtual reality maze introduces traps and objectives that would hinder the u
 Clone the repository
 
 ```bash
-git clone https://github.com/KenthonyGarcia/VR-Maze.git
+git clone https://github.com/SheikhFuad/VR-MAZE.git
 ```
 
 In the Unity Hub, add the folder **VR-Maze** that was just cloned. Then open the project. It requires Unity Version `2021.3.9f1` or higher.
